@@ -178,7 +178,7 @@ h1,h2,h3,h4 {
     margin-bottom: 15px;
     width: 150px;
     height: 150px;
-    background: url(/images/koren.jpg);
+    background: url(./images/koren.jpg);
     border-radius: 50%;
     background-size: auto 150px;
 }
